@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sep's%20GITHUB&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Sep's%20GITHUB&fontSize=58)
 ## My values
 😎 안녕하세요 !! 주니어 개발자 sep입니다.<br />
 <br />
