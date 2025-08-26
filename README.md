@@ -6,7 +6,7 @@
 <br />
 ## Introduce
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dytpq0978)](https://solved.ac/dytpq0978/)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sep98&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosep98&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 <br />
 <br />
 <br />
