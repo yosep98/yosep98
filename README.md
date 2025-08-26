@@ -5,7 +5,7 @@
 <br />
 <br />
 ## Introduce
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={dytpq0978})](https://solved.ac/{dytpq0978}/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dytpq0978)](https://solved.ac/dytpq0978/)
 <br />
 <br />
 <br />
